@@ -1,2 +1,2 @@
 # WinKeylogger
-Windows Keylogger (https://bestxsoftware.com/pricing.html)
+Windows Keylogger (https://bestxsoftware.com/ and https://winthread.com/)
